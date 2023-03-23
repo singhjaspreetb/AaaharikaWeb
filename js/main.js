@@ -2,7 +2,7 @@
     "use strict";
 
     e(window).on("load", function () {
-        e(".preloader-wrap").fadeOut(1e3);
+        e(".preloader-wrap").fadeOut(100);
     });
 
     // For Venobox
